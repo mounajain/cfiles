@@ -1,5 +1,5 @@
 main ()
 {
-	 big3();
-	 reverse();
+	big3();
+	reverse();
 }
